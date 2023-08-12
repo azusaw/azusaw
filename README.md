@@ -1,4 +1,4 @@
-✋ I'm @azusaw, coding mainly in Typescript & React
+✋ I'm @azusaw, coding mainly in Typescript & React & Vue
 
 💖 Also like Python
 
